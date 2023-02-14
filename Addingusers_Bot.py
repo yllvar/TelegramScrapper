@@ -1,10 +1,10 @@
 import telethon
 from telethon import events
 
-API_ID = 23691433
-API_HASH = 'de32b5e0e668d6bd80870116dbf769c5'
+API_ID = 
+API_HASH = ''
 
-bot = telethon.TelegramClient('6211666974:AAFbJoD7aWD0aqUHa751wC4vowYoiEqRKl8', API_ID, API_HASH)
+bot = telethon.TelegramClient('<BOT_TOKEN>', API_ID, API_HASH)
 
 chats = []
 groups = []
